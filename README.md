@@ -1,2 +1,2 @@
 # unraid-user-script
-My custom user scripts for my unraid server
+Custom user scripts I used for my unraid server.
